@@ -1,6 +1,5 @@
-# Twitter-Data-Wrangling-Project
+# Analysis of Twitter Data: “WeRateDogs”
 
-**This is my second project as an Udacity Scholar in my Udacity Data Analyst Nanodegree Program.**
 
 ## Introduction
 
@@ -70,4 +69,4 @@ Create a 300-600 word written report called wrangle_report.pdf that briefly desc
 
 ## Medium Blog on this Project
 
-You can also read my [blog](https://medium.com/@chisompromise/twitter-data-analysis-weratedogs-1fb8b65da7fa) post on this project and feel free to connect with me on [Linkedin](https://www.linkedin.com/in/chisom-promise/).
+You can also read my [blog](https://medium.com/@danifedibah/analysis-of-twitter-data-weratedogs-cac35e6e53f4) post on this project and feel free to connect with me on [Linkedin](https://www.linkedin.com/in/daniel-ifediba).
